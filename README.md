@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifarros
-- 👀 I’m interested in Front-End Web Dev
+- 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on JS Project
 - 📫 You can reach me by email ifarros15@gmail.com
